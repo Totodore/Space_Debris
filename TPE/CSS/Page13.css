@@ -1,0 +1,50 @@
+
+#content
+{
+	
+}
+#boutonAvant
+{
+	background-color: rgba(8, 8, 80, 0.3);
+	padding: 12px;
+	border-radius: 3px;
+}
+
+#boutonApres
+{
+
+	background-color: rgba(8, 8, 80, 0.3);
+	border-radius: 3px;
+	margin-left: auto;
+	padding: 12px;
+}
+
+#boutonApres:hover, #boutonAvant:hover
+{
+	background-color: rgb(8, 8, 80);
+}
+
+#boutons
+{
+	display: flex;
+	align-items: center;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	color: white;
+	text-align: center;
+}
+table
+{
+	margin: auto;
+	text-align: left;
+	font-size: 0.9em;
+}
+td
+{
+	line-height: 25px;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
